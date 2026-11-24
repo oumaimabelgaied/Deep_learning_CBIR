@@ -1,0 +1,19 @@
+# Dataset (lourd, droits de redistribution incertains)
+DeepCBIR_Dataset/
+*.zip
+
+# Modèles et sorties lourdes
+*.h5
+*.keras
+*.npy
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / éditeur
+.DS_Store
+.vscode/
